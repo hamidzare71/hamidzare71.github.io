@@ -11,3 +11,6 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+Gemfile.lock.oreg
+docker-run.txt
+jekyll3.8-history
